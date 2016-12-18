@@ -1,0 +1,28 @@
+{
+  "name": "seo-hero",
+  "authors": [
+    "Julien Naufaulo <hello@naufaulo.com>"
+  ],
+  "description": "Small tool to grab google search results on a given query.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "seo",
+    "hero",
+    "seo hero"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.naufaulo.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "q": "~2.0.2",
+    "cheerio": "^0.22.0",
+    "request": "^2.79.1"
+  }
+}
